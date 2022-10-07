@@ -55,6 +55,10 @@ header .banner {
    width: 85%;
    padding-bottom: 30px;
    text-align: center;
+   background-color: rgba(0,0,0, .35);
+   /* box-shadow: 1px 2px 3px rgba(0,0,0,.9); */
+   box-shadow: rgba(0, 0, 0, 0.50) 0px 22px 70px 4px;
+   border-radius: 3px;
 }
 
 header .banner-text { width: 100%; }
@@ -160,6 +164,7 @@ ul#nav li {
    display: inline-block;
 }
 
+
 /* Links */
 ul#nav li a {
 
@@ -171,6 +176,10 @@ ul#nav li a {
 	text-decoration: none;
    text-align: left;
    color: #fff;
+   background-color: rgba(0,0,0, .35);
+   /* box-shadow: 1px 2px 3px rgba(0,0,0,.9); */
+   box-shadow: rgba(0, 0, 0, 0.50) 0px 22px 70px 4px;
+   border-radius: 1px;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -208,10 +217,15 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 350px;
+   height: 390px;
    border-radius: 100%;
 }
+
+#about .pers-pic {
+   padding: 0%;
+}
+
 #about .contact-details { width: 41.66667%; }
 #about .download {
    width: 58.33333%;

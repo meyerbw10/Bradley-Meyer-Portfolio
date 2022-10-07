@@ -3,10 +3,13 @@ let resumeData = {
   
     "imagebaseurl":"https://github.com/meyerbw10",
     "name": "Bradley Meyer",
+    "email": " brad.meyer13@gmail.com",
+    "phone": " (513) 578-0654",
+    "resume": " https://drive.google.com/file/d/1g2NeUDHItFeqlP8z-wgvQsIxKQcQwsoV/view?usp=sharing",
     "role": "Full-Stack Web Developer",
     "linkedinId":"bradley-meyer-347b5678",
     "twitterid": "Bradley_Meyer10",
-    "roleDescription": "I Bring in Unique and varying skills that tie together to produce a robust individual that has an affinity for communication and leadership and bringing the best out of people. Proven problem solving skills. Eager to work hard and support a dev team with top-notch coding skills. Proficient in both Front-End & Back-End Development",
+    "roleDescription": " Trying to watch more sunsets than Netflix",
     "socialLinks":[
         {
         "name":"facebook",

@@ -6,9 +6,9 @@ export default class About extends Component {
       <section id="about">
          <div className="row">
 
-            <div className="three columns">
+            <div className="three columns pers-pic">
 
-               <img className="profile-pic"  src="images/Brad.jpeg" alt="" />
+               <img className="profile-pic"  src="images/Brad.jpeg" alt="Brad Standing in the light" />
 
             </div>
 
