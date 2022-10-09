@@ -9,7 +9,7 @@ let resumeData = {
     "role": "Full-Stack Web Developer",
     "linkedinId":"bradley-meyer-347b5678",
     "twitterid": "Bradley_Meyer10",
-    "roleDescription": " Trying to watch more sunsets than Netflix",
+    "roleDescription": " ",
     "socialLinks":[
         {
         "name":"facebook",
