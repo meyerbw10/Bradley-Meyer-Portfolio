@@ -31,22 +31,9 @@ Link to deployed website: https://github.com/meyerbw10/Bradley-Meyer-Portfolio
 
 ### Usage & Mock Up
 
-
+![](../readmeP.png)
 
 ![](./Me.jpeg)
-
----
-
-## User Story
-```
-
-```
----
-
-## Acceptance Criteria
-```
-
-```
 
 ---
 
