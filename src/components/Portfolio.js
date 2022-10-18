@@ -11,14 +11,14 @@ export default class Porfolio extends Component {
 
               {/* photo 1 */}
 
-              <a href="https://github.com/meyerbw10/Book-Search-Engine-01">
+              <a href="https://github.com/Korbynd23/reShift">
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
 
                     <img src={process.env.PUBLIC_URL + "images/book1.jpeg"} alt='A' className="item-img" />
 
                     <div className="overlay">
-                      <div className="portfolio-item-meta">Final Project</div>
+                      <div className="portfolio-item-meta">Employee Survey System</div>
                     </div>
 
                   </div>
@@ -41,7 +41,7 @@ export default class Porfolio extends Component {
               </a>
               {/* photo 3 */}
 
-              <a href="https://github.com/Galdronis/Travel-Guide-01">
+              <a href="https://github.com/Galdronis/Travel-Guide">
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
 
@@ -56,7 +56,7 @@ export default class Porfolio extends Component {
               </a>
               {/* Photo 4 */}
 
-              <a href="https://github.com/meyerbw10/Book-Search-Engine-01">
+              <a href="https://github.com/meyerbw10/Book-Search-Engine">
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
 
